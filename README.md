@@ -1,11 +1,11 @@
-## This is the Hello World for C++
+This is the Hello World for C++
 ------------
 
 
 Nothing fancy going on here. 
 
 
-## DIY
+DIY
 ------------
 
 Start/Open Eclipse
