@@ -1,8 +1,8 @@
 //============================================================================
 // Name        : hello.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
+// Author      : Generic Eclipse Project
+// Version     : 0.0.1
+// Copyright   : Open Source
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
